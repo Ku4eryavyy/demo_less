@@ -1,0 +1,17 @@
+@use "../helpers/mixins" as helperModule;
+@use "../helpers/variables";
+@use '../library/library';
+
+// header {
+//     border: 2px solid blue;
+//     background-color: red;
+//     @include helperModule.color ();
+// }
+
+// header p {
+//     color: variables.$color;
+// }
+
+// button {
+//     @include library.button;
+// }
